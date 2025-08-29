@@ -1,6 +1,6 @@
 # AWS Serverless Image Classification Project
 
-This repository contains all the code and assets for a serverless machine learning (ML) pipeline deployed on **AWS**. The project demonstrates an end-to-end workflow for classifying images of bicycles and motorcycles.
+This repository contains all the code and assets for a serverless machine learning (ML) pipeline deployed on **AWS**. The project demonstrates an end-to-end workflow to automatically detect what kind of vehicle Scones Unlimited's delivery drivers have, in order to route them to the correct loading bay and orders.
 
 ---
 
